@@ -27,7 +27,7 @@ To install and use this software, simply extract the archive found in `Releases`
 ## Usage
 `To save file records:` <br />
 
-- Pick a root directory to export the records of all the files present in the directory and subdirectories and save it.<br />
+- Pick a root directory to export the records of all the files present in the directory and subdirectories and save.<br />
 
   ![image](https://github.com/user-attachments/assets/98f0e9af-43ae-436d-a4ac-78583aef458f)<br /><br />
 
