@@ -5,7 +5,7 @@
 
 ## Description
 
-Quickly spots any differences between directories and prints out missing, mismatched and excess files found while also offering a feature to easily copy mismatched and excess files with the aim of creating patches to quickly ensure synchronization between directories<br />
+A software that quickly spots any differences between directories and prints out missing, mismatched and excess files found while also offering a feature to copy mismatched and excess files with the aim of creating patches to ensure synchronization between directories<br />
 
 ## Table of Contents
 - [Information](#information)
