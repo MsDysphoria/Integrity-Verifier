@@ -10,18 +10,14 @@ Quickly spots any differences between directories and prints out missing, mismat
 - [Information](#information)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Fonts](#fonts)
-- [Limitations](#limitations)
-- [Known Issues](#knownissues)
-- [To-Do](#to-do)
 - [Contact](#contact)
 
 ## Information
 `What is it?` <br />
-- Integrity Verifier is a software intended for validating and synchronizing files. With it, users can easily spot differences in large amount of files and ensure that there is data integrity between folders, multiple clients and users.
+- Integrity Verifier is a software intended for verifying and synchronizing files. With it, users can easily spot differences in large amount of files and ensure that there is data integrity between folders, multiple clients and users.
  
 `Where can I use it?` <br />
-- I personally use it when I am modding in multiplayer games where I have to deal with hundreds of mods and updates and need to ensure integrity between multiple clients. It can be a tedious job to verify files when done manually, but with this software, it's easier to make sure that there is synchronization between files across all users.
+- I personally use it when I am modding in multiplayer games where I have to deal with hundreds of mods and updates and need to ensure integrity between multiple clients. It can be a tedious job to verify files when done manually, but with this software, it's easier to make sure that there is synchronization between clients across all users.
    
 ## Installation
 
@@ -45,12 +41,6 @@ To install and use this software, simply extract the archive found in `Releases`
   ![image](https://github.com/user-attachments/assets/712e23d7-1100-496d-a7a6-997d7559c6e7)<br /><br />
   ![image](https://github.com/user-attachments/assets/b51c5d76-d689-4cb0-b37a-1d3e60436be6)
 
-  
-## Known Issues
-- Font changes don't happen when a media file is attached to the message.
-
-## To-Do
-- 
 ## Contact
 E-mail: msdysphoria.official@gmail.com<br />
 Discord: `msdysphoria`<br />
