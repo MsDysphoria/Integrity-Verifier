@@ -28,8 +28,7 @@ To install and use this software, simply extract the archive found in `Releases`
 `To save file records:` <br />
 
 - Pick a root directory to export the records of all the files present in the directory and subdirectories and save.<br />
-
-  ![image](https://github.com/user-attachments/assets/98f0e9af-43ae-436d-a4ac-78583aef458f)<br /><br />
+  ![Integrity Verifier 1](https://github.com/user-attachments/assets/751420ba-624f-4acc-895a-3c76ae571d0d)<br /><br />
 
 `To load file records, verify and create a patch:` <br />
 
@@ -39,10 +38,10 @@ To install and use this software, simply extract the archive found in `Releases`
 - Click on Open Last Logs to view the full list of missing, mismatched and excess files found.
 - Click on Copy Last Excess/Mismatched files to copy all the files in their correct directory order.<br />
 
-  ![image](https://github.com/user-attachments/assets/712e23d7-1100-496d-a7a6-997d7559c6e7)<br /><br />
+![Integrity Verifier 2](https://github.com/user-attachments/assets/1e49b312-9f8a-47b4-bf8e-f17fb66a44b5)<br /><br />
   ![image](https://github.com/user-attachments/assets/b51c5d76-d689-4cb0-b37a-1d3e60436be6)
 
 ## Contact
 E-mail: msdysphoria.official@gmail.com<br />
 Discord: `msdysphoria`<br />
-[Discord Group](https://discord.gg/tG6krSHZbG)
+[Discord Group](https://discord.com/invite/buNr2QxjC6)
