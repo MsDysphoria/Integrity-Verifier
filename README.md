@@ -1,5 +1,5 @@
 # Integrity Verifier
-![image](https://github.com/user-attachments/assets/d3631592-f7e8-465c-9e00-1575cbc53363)
+<img width="386" height="217" alt="Integrity Verifier Banner" src="https://github.com/user-attachments/assets/234c2679-e04b-43ab-96b3-5045237011cb" />
 
 [![License](https://img.shields.io/badge/license-Ms._Dysphoria-blue.svg)](LICENSE)
 
